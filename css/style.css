@@ -1,0 +1,19 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    display: block;
+}
+
+section h1 {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+#contact {
+    background-color: pink;
+}
+
+.active img {
+    width: 100%;
+}
